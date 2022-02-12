@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x25ba3c7c0c2e10aef0200b4b6be10bad1fb5092b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x25ba3c7c0c2e10aef0200b4b6be10bad1fb5092b",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "0xCats",
+  "SYMBOL": "0xCat",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
